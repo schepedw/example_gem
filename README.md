@@ -1,5 +1,4 @@
 # Adder
-
 TODO: Write a gem description
 
 ## Installation
@@ -8,7 +7,6 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'adder'
-```
 
 And then execute:
 
